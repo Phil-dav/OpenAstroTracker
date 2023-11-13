@@ -1,0 +1,1 @@
+OpenAstroTracker - DSLR tracking & GoTo mount by openastrotech on Thingiverse: https://www.thingiverse.com/thing:4167783
